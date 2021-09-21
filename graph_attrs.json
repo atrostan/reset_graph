@@ -1,0 +1,47 @@
+{
+  "com-amazon": {
+    "n_nodes": 334863,
+    "n_edges": 925872,
+    "is_symmetric": 1
+  },
+  "twitter-combined": {
+    "n_nodes": 81306,
+    "n_edges": 1768149,
+    "is_symmetric": 0
+  },
+  "cit-Patents": {
+    "n_nodes": 3774768,
+    "n_edges": 16518948,
+    "is_symmetric": 0
+  },
+  "web-BerkStan": {
+    "n_nodes": 685230,
+    "n_edges": 7600595,
+    "is_symmetric": 0
+  },
+  "web-Google": {
+    "n_nodes": 875713,
+    "n_edges": 5105039,
+    "is_symmetric": 0
+  },
+  "web-NotreDame": {
+    "n_nodes": 325729,
+    "n_edges": 1497134,
+    "is_symmetric": 0
+  },
+  "web-Stanford": {
+    "n_nodes": 281903,
+    "n_edges": 2312497,
+    "is_symmetric": 0
+  },
+  "roadNet-CA": {
+    "n_nodes": 1965206,
+    "n_edges": 5533214,
+    "is_symmetric": 1
+  },
+  "com-orkut": {
+    "n_nodes": 3072441,
+    "n_edges": 117185083,
+    "is_symmetric": 1
+  }
+}
